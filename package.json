@@ -1,0 +1,19 @@
+{
+	"name": "propsof", "version": "0.1.0",
+	"private": false,
+	"author": "Vladimir (https://github.com/VladimirCreator/)",
+
+	"keywords": ["typescript", "react"],
+	"repository": "github:VladimirCreator/propsof",
+
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+
+	"dependencies": {
+
+	},
+	"devDependencies": {
+
+	}
+}
